@@ -1,16 +1,15 @@
-
 <p align="center" style="font-size:35px;">
     <strong>¿Eres nuevo en Linux o quieres comenzar un nuevo mundo?</strong>
 </p>
 
-<p align="center" style="font-size:20px;"> <u>¡Aquí aprenderás los comandos básicos para adentrarnos en el maravilloso mundo de Linux!</u>
+<p align="center"; style="font-size:20px;"> <ins>¡Aquí aprenderás los comandos básicos para adentrarnos en el maravilloso mundo de Linux!</ins>
 </p>
 
 ![](assets/gifs/matrix-gif.gif)
 ![](assets/gifs/separadores-de-colores.gif)
 # ¿Qué es Arch Linux?
 <p align="center">
-  <img src="assets/images/archlinux-logo.png" height="199" width="600">
+  <img src="assets/images/archlinux-logo.png">
 </p>
 Es una distribución GNU/Linux enfocada en la simplicidad y control total del sistema desde el inicio.
 Su filosofía la describen como:
