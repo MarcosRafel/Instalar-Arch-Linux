@@ -38,7 +38,7 @@ Una de las herramientas más conocidos para esta tarea es:
   <img src="assets/images/página-rufus.png">
 </p>
 
-Sin embargo, en este procedimiento ecogí:
+Sin embargo, en este procedimiento escogí:
 
 * Ventoy: https://www.ventoy.net/en/index.html
 <p align="center">
@@ -70,7 +70,7 @@ Después de transferir correctamente la imagen ISO, se recomienda expulsar la me
 
 Una vez retirada, la memoria USB queda completamente lista para utilizarse como medio de instalación de Arch Linux.
 ![](assets/gifs/separadores-de-colores.gif)
-# Pasemos a la siguiente fase: Instalar
+# Pasemos a la siguiente fase: Instalación
 <p align="center">
   <img src="assets/images/¿asustado-potter.jpg">
 </p>
