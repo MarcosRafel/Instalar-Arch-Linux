@@ -54,7 +54,16 @@ Una vez instalado Ventoy, se conecta la memoria USB al equipo y se ejecuta el pr
 2. Se instala Ventoy en el dispositivo.
 3. Se copia la imagen ISO de Arch Linux directamente dentro de la memoria USB.
 
+<p align="center">
+  <img src="assets/images/isoarchlinux-memoriausb.png">
+</p>
+
 A diferencia de otros programas, Ventoy no requiere realizar procesos adicionales de grabación, ya que simplemente detecta automáticamente los archivos ISO almacenados.
+
+<p align="center">
+  <img src="assets/images/ventoy-menú.jpeg">
+</p>
+
 ![](assets/gifs/separadores-de-colores.gif)
 # 4. Expulsión segura de la memoria USB
 Después de transferir correctamente la imagen ISO, se recomienda expulsar la memoria USB de manera segura desde el sistema operativo para evitar daños en los archivos o corrupción de datos.
@@ -62,3 +71,6 @@ Después de transferir correctamente la imagen ISO, se recomienda expulsar la me
 Una vez retirada, la memoria USB queda completamente lista para utilizarse como medio de instalación de Arch Linux.
 ![](assets/gifs/separadores-de-colores.gif)
 # Pasemos a la siguiente fase: Instalar
+<p align="center">
+  <img src="assets/images/¿asustado-potter.jpg">
+</p>
