@@ -467,6 +467,7 @@ America/Mexico_City
 ```
 
 Configura correctamente la zona horaria del sistema.
+
 ![](assets/gifs/separadores-de-colores.gif)
 
 <p align="center"; style="font-size:20px;"> <ins> Automatic Time Sync (NTP)
