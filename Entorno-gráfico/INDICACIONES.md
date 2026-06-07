@@ -9,6 +9,7 @@ Para disponer de una experiencia visual completa será necesario instalar un ent
 Si queremos compararlo en un aspecto de la vida cotidiana, entonces pensemos en la construcción de una casa en un terreno despejado, nosotros elegimos el tamaño, los materiales, la pintura, etc. Toda la construcción de la casa, incluyendo cableado, es la instalación de Arch Linux. En cuanto a los muebles, aparatos electrónicos, etc., es el entorno gráfico, la comodidad que queremos para el uso del sistema operativo.
 
 Existen múltiples alternativas disponibles dentro del ecosistema Linux, cada una con características, requisitos de hardware y filosofías de diseño diferentes.
+
 ![](assets/gifs/gato-arcoiris.gif)
 
 # Importante
@@ -26,10 +27,12 @@ El entorno gráfico que instalé se llama "KDE Plasma". Debido a su comportamien
 
 # Objetivo
 Mantener una instalación ligera y funcional, permitiendo que cada usuario agregue posteriormente las aplicaciones y herramientas que considere necesarias.
+
 ![](assets/gifs/gato-arcoiris.gif)
 
 # Recomendación
 Instalar únicamente uno de los entornos descritos en esta sección para evitar conflictos innecesarios y mantener una configuración sencilla de administrar.
+
 ![](assets/gifs/gato-arcoiris.gif)
 
 # Línea de código
@@ -48,6 +51,7 @@ sudo pacman -S
 **"-S"** especifica que la operación a realizar será la instalación de uno o varios paquetes provenientes de los repositorios configurados.
 
 A partir de esta línea de código, los nombres que aparecen después corresponden a los paquetes que serán instalados y que conformarán el entorno gráfico seleccionado.
+
 ![](assets/gifs/gato-arcoiris.gif)
 
 # Inicio de sesión
@@ -99,6 +103,7 @@ Después aparecerá lo que aparece en la siguiente imagen:
 solicitando seleccionar un proveedor para el paquete **"qt6-multimedia-backend"**. Los proveedores (providers) son implementaciones alternativas que permiten ofrecer la misma funcionalidad mediante diferentes tecnologías. En mi caso elegí 1 (por defecto).
 
 Posteriormente nos preguntará si estamos seguros de instalar, escribiremos "Y" o apretamos la tecla "Enter", de ahí comenzará a instalar.
+
 ![](assets/gifs/separadores-de-colores.gif)
 
 Antes de reiniciar, habilitamos el gestor de arranque de inicio de sesión:
